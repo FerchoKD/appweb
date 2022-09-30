@@ -1,0 +1,14 @@
+.inputs{
+    border:none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    border-bottom:1px solid;
+    background-color: transparent;
+    font-size: 15px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+label{
+    color: black;
+}

@@ -1,8 +1,19 @@
-.contenedor{
-    background-color: #02EB4C;
-    border: solid;
-    height: 500px;
-    width: 400px;
-    box-shadow: 10px 10px;
+.contenedor {
+  background-color: #02eb4c;
+  border: solid;
+  height: 500px;
+  width: 400px;
+  box-shadow: 10px 10px;
 }
 
+.centrar{
+    align-items: center;
+    text-align: center;
+    margin-top: 15px;
+}
+
+span{
+    margin-top: 3000px;
+    font-size: 26px;
+    color:black;
+}
